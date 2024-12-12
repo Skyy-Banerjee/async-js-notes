@@ -1,4 +1,4 @@
-![alt text](image.png)
+![eventLoop](https://github.com/user-attachments/assets/7386045b-3ad6-44cb-82c5-e6c23d46014e)
 
 The **Event Loop** is a fundamental concept in JavaScript that enables non-blocking, asynchronous programming. It ensures that operations like I/O, timers, or API calls don't block the execution of other parts of your code. This is especially critical because JavaScript is **single-threaded**, meaning it has a single call stack and executes one piece of code at a time.
 
